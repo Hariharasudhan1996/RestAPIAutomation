@@ -67,6 +67,13 @@
 	    <version>8.3.1</version>
 	    <scope>test</scope>
 	</dependency>
+	<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.28</version> <!-- or the latest version available -->
+    <scope>provided</scope>
+</dependency>
+
 
 	
 	<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
